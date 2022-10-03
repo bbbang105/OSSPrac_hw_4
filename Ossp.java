@@ -3,18 +3,21 @@ public class Ossp {
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
-		
-		System.out.println("ÀÌ¸§À» ÀÔ·ÂÇÏ¼¼¿ä.: ");
+
+		System.out.println("ì´ë¦„ì„ ì…ë ¥í•˜ì„¸ìš”.: ");
 		String name = in.next();
-		System.out.println("ÇĞ¹øÀ» ÀÔ·ÂÇÏ¼¼¿ä.: ");
+		System.out.println("í•™ë²ˆì„ ì…ë ¥í•˜ì„¸ìš”.: ");
 		int studentNumber = in.nextInt();
-		System.out.println("ÇĞ°ú¸¦ ÀÔ·ÂÇÏ¼¼¿ä.: ");
+		System.out.println("í•™ê³¼ë¥¼ ì…ë ¥í•˜ì„¸ìš”.: ");
 		String major = in.next();
-		
-		System.out.println("<Ãâ·Â>");
-		System.out.println("ÀÌ¸§: "+name);
-		System.out.println("ÇĞ¹ø: "+studentNumber);
-		System.out.println("ÇĞ°ú: "+major);
+		System.out.println("í•™êµë¥¼ ì…ë ¥í•˜ì„¸ìš”.: ");
+		String univ = in.next();
+
+		System.out.println("<ì¶œë ¥>");
+		System.out.println("ì´ë¦„: "+name);
+		System.out.println("í•™ë²ˆ: "+studentNumber);
+		System.out.println("í•™ê³¼: "+major);
+		System.out.println("í•™êµ: "+univ);
 	}
 
 }
