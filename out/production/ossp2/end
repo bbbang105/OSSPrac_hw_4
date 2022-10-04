@@ -1,0 +1,26 @@
+[33mcommit f08023c5622650d1a99af61cf9d2d2adb1d5c1fb[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 7d94642 977f5ec
+Author: SanghoHan <113084292+bbbang105@users.noreply.github.com>
+Date:   Mon Oct 3 21:47:42 2022 +0900
+
+    Merge pull request #1 from bbbang105/ossp1
+    
+    change
+
+[33mcommit 977f5ec82ddfe072b34025d505b7f42f1373da6d[m[33m ([m[1;31morigin/ossp1[m[33m)[m
+Author: bbbang105 <2018111366@dgu.ac.kr>
+Date:   Sun Oct 2 06:43:20 2022 +0900
+
+    change
+
+[33mcommit 7d94642ec643fb6b5c6e3bdf635f36a469a2482f[m
+Author: bbbang105 <2018111366@dgu.ac.kr>
+Date:   Sun Oct 2 06:40:00 2022 +0900
+
+    2022-09-22 실습과제#4 3번
+
+[33mcommit 02f4743b60e1f732104907817cd98c2a4940a0bc[m
+Author: SanghoHan <113084292+bbbang105@users.noreply.github.com>
+Date:   Sun Oct 2 06:33:25 2022 +0900
+
+    Initial commit
