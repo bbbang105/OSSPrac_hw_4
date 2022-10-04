@@ -10,6 +10,8 @@ public class Ossp {
 		int studentNumber = in.nextInt();
 		System.out.println("학과를 입력하세요.: ");
 		String major = in.next();
+		System.out.println("학교를 입력하세요.: ");
+		String univ = in.next();
 		System.out.println("학년을 입력하세요.: ");
 		int grade = in.nextInt();
 
@@ -17,8 +19,8 @@ public class Ossp {
 		System.out.println("이름: "+name);
 		System.out.println("학번: "+studentNumber);
 		System.out.println("학과: "+major);
+		System.out.println("학교: "+univ);
 		System.out.println("학년: "+grade);
-		
 	}
 
 }
